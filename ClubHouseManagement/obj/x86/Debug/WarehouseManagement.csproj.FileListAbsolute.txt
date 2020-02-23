@@ -1,0 +1,74 @@
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.pdb
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+c:\users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\ISO15693DLL.dll
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\TagReaderLibrary.dll
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe.config
+C:\Users\seven\documents\visual studio 2010\Projects\WarehouseManagement\WarehouseManagement\bin\Debug\mydata.mdb
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe.config
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\mydata.mdb
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\ISO15693DLL.dll
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\TagReaderLibrary.dll
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.pdb
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe.config
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\mydata.mdb
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.pdb
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\ISO15693DLL.dll
+H:\WarehouseManagement\WarehouseManagement\bin\Debug\TagReaderLibrary.dll
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+H:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe.config
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\mydata.mdb
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.pdb
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\ISO15693DLL.dll
+F:\WarehouseManagement\WarehouseManagement\bin\Debug\TagReaderLibrary.dll
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WarehouseManagement\WarehouseManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe.config
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\bin\Debug\mydata.mdb
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.exe
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\bin\Debug\WarehouseManagement.pdb
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+C:\Users\guyangyang\Desktop\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\bin\Debug\bin\Debug\mydata.mdb
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.FirstForm.resources
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.mainform.resources
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.Properties.Resources.resources
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.csproj.CoreCompileInputs.cache
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.exe
+D:\王攀袁胜—仓库管理\王攀袁胜—仓库管理\WarehouseManagement\WarehouseManagement\obj\x86\Debug\WarehouseManagement.pdb
