@@ -1,8 +1,8 @@
-# Club-House-Management
+# Membership-Card-Management-System
 
-This is an RFID course project, to practice related operations through the RFID identification device connected to the COM port.
+This is an **RFID course project**, to practice related operations through the RFID identification device connected to the COM port.
 
-本项目是 RFID 课程 project，通过和 COM 口连接的 RFID 射频识别设备完成相关操作。
+本项目是 **RFID 课程 project**，通过和 COM 口连接的 RFID 射频识别设备完成相关操作。
 
 
 - Project proposal 项目目的
